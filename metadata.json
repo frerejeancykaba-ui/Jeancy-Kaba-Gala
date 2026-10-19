@@ -1,0 +1,6 @@
+{
+  "name": "WHO'S GOD? — Questions & Réponses Bibliques",
+  "description": "Toutes tes questions sur Dieu méritent une réponse fondée sur sa Parole. Plateforme intelligente de questions et réponses bibliques créée par Jeancy KABA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
